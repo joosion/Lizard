@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 100;
+    font-style: normal;
+    src: local('NanumMyeongjo'),
+        url('NanumMyeongjo.otf') format('opentype');
+}
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 200;
+    font-style: bold;
+    src: local('NanumMyeongjo'),
+        url('NanumMyeongjoBold.otf') format('opentype');
+} 
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-weight: 200;
+    font-style: bolder;
+    src: local('NanumMyeongjo'),
+        url('NanumMyeongjoExtraBold.otf') format('opentype');
+}
+/* NanumMyeongjo */
+@font-face {
+    font-family: 'NotoSansKR';
+    font-weight: 100;
+    font-style: lighter;
+    src: local('NotoSansKR'),
+        url('NotoSansKR-Light.otf') format('opentype');
+}
+/* NotoSansKR */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: lighter;
+    src: local('Roboto'),
+        url('Roboto-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 200;
+    font-style: normal;
+    src: local('Roboto'),
+        url('Roboto-Regular.ttf') format('truetype');
+}
+/* Roboto */
+@font-face {
+    font-family: 'DMSerifDisplay';
+    font-weight: 200;
+    font-style: normal;
+    src: local('DMSerifDisplay'),
+        url('DMSerifDisplay-Regular.ttf') format('truetype');
+}
+/* DMSerifDisplay */
