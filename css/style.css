@@ -27,37 +27,37 @@ h1{font-family: 'NanumMyeongjo'; font-weight: 200; font-style: bold;}
 .con2 .con2_wrap{width: 1680px; height: 1080px; position: relative; overflow: hidden; margin: 0 auto;}
 .slide_wrapper{
 	position: relative;
-	width: 660px;
+	width: 661px;
 	margin: 0 auto;
 	height: 200px;
 	overflow:hidden;
 }
 .slides{
 	position: absolute;
-	left:0; top:0;	
+	left:1; top:0;	
 }
 .slides.animated{
 	transition: 0.5s ease-out;
 }
 .slides li{
-	width: 200px;
-	height: 200px;
+	width: 201px;
+	height: 201px;
 	background:#ccc;
 	float:left;
 }
 .slides li:not(:last-child){	
-	margin-right: 30px;
+	margin-right: 31px;
 }
 .controls{
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 51px;
 }
 
 .controls span{
 	background:#333;
 	color: #fff;
-	padding:10px 20px;
-	margin:0 10px;
+	padding:10px 21px;
+	margin:0 11px;
 }
 /* con2 */
 
